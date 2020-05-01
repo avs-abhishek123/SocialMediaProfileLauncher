@@ -15,6 +15,10 @@ This is motivated by [Rule Life on Google Chrome Extention](https://www.youtube.
 | :----------------------------------------------------------: |
 | **[Linkedin Profile : Abhishek A.V.S.](https://www.linkedin.com/in/abhishek-a-v-s-381937156/)**  |
 
-[![GitHub followers](https://img.shields.io/github/followers/avs-abhishek123.svg?label=Follow%20@avs-abhishek123&style=social)](https://github.com/avs-abhishek123) [![Twitter Follow](https://img.shields.io/twitter/follow/AllenaVenkata?style=social)](https://twitter.com/AllenaVenkata) 
+<h1>SOCIAL MEDIA</h1>
+
+[![GitHub followers](https://img.shields.io/github/followers/avs-abhishek123.svg?label=Follow%20@avs-abhishek123&style=social)](https://github.com/avs-abhishek123) | [![Twitter Follow](https://img.shields.io/twitter/follow/AllenaVenkata?style=social)](https://twitter.com/AllenaVenkata) 
+------------ | -------------
+<a href="https://www.quora.com/profile/Abhishek-A-V-S"><b><em> Quora Follow </b></em></a>  | <a href="https://www.linkedin.com/in/abhishek-a-v-s-381937156"> <b><em>Linkedin Follow</b></em></a>  
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/avs-abhishek123)
