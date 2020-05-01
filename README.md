@@ -7,7 +7,7 @@ This is motivated by [Rule Life on Google Chrome Extention](https://www.youtube.
 
 ### Screenshot of the Chrome Extention
 
-![](images/Screenshot.png)
+<img src="https://github.com/avs-abhishek123/SocialMediaProfileLauncher/blob/master/images/Screenshot.png">
 
 ### Project Admin
 
